@@ -99,9 +99,9 @@ async def start_command(event):
         "ᴛʜɪs ʙᴏᴛ ɪs ᴅᴇsɪɢɴᴇᴅ ᴛᴏ ʙᴀɴ ᴀɴᴅ ᴜɴʙᴀɴ ᴜsᴇʀs ɪɴ ɢʀᴏᴜᴘs.\n\n"
         "ʜɪᴛ `/help` ᴛᴏ ɢᴇᴛ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs.",
         buttons=[
-            [Button.url("ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ", url="https://t.me/venomOwners")],
-            [Button.url("ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/venom_chatz")],
-            [Button.url("ʀᴇᴘᴏ ʟɪɴᴋ", url="https://github.com/venombolteop/Banall")], 
+            [Button.url("ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ", url="https://t.me/+xzQ7_UR7Qdk2M2Nl")],
+            [Button.url("ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/+dzoY-H67iSRhYjZl")],
+            [Button.url("ʟɪɴᴋ", url="https://t.me/+dzoY-H67iSRhYjZl")], 
         ],
         file='https://te.legra.ph/file/310a7fad596b00513692a.jpg',  # Replace with your image URL
     )
